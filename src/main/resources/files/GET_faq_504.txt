@@ -1,0 +1,161 @@
+c9452ad.js:2          GET https://xcoex-org-master.web.rnd-env.com/api/xcoex-org-mining/en/faq 504
+(anonymous) @ c9452ad.js:2
+t.exports @ c9452ad.js:2
+t.exports @ c9452ad.js:2
+Promise.then (async)
+y.request @ c9452ad.js:2
+r.forEach.y.<computed> @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+Sr.Er.<computed> @ 23ac99a.js:1
+(anonymous) @ 2d427b8.js:1
+v @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+r @ c9452ad.js:2
+l @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+e.a @ 2d427b8.js:1
+(anonymous) @ 2d427b8.js:1
+v @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+r @ c9452ad.js:2
+l @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+asyncData @ 2d427b8.js:1
+L @ 23ac99a.js:1
+(anonymous) @ 23ac99a.js:1
+v @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+r @ c9452ad.js:2
+l @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+(anonymous) @ 23ac99a.js:1
+(anonymous) @ 23ac99a.js:1
+v @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+r @ c9452ad.js:2
+l @ c9452ad.js:2
+Promise.then (async)
+r @ c9452ad.js:2
+l @ c9452ad.js:2
+Promise.then (async)
+r @ c9452ad.js:2
+l @ c9452ad.js:2
+Promise.then (async)
+r @ c9452ad.js:2
+l @ c9452ad.js:2
+Promise.then (async)
+r @ c9452ad.js:2
+l @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+T @ 23ac99a.js:1
+x @ c9452ad.js:2
+r @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+(anonymous) @ 23ac99a.js:1
+v @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+r @ c9452ad.js:2
+l @ c9452ad.js:2
+Promise.then (async)
+r @ c9452ad.js:2
+l @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+S @ 23ac99a.js:1
+x @ c9452ad.js:2
+r @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+(anonymous) @ 23ac99a.js:1
+x @ c9452ad.js:2
+r @ c9452ad.js:2
+r @ c9452ad.js:2
+jt @ c9452ad.js:2
+Ht.confirmTransition @ c9452ad.js:2
+Ht.transitionTo @ c9452ad.js:2
+e.push @ c9452ad.js:2
+ee.push @ c9452ad.js:2
+H.n.push @ 23ac99a.js:1
+k @ c9452ad.js:2
+ee @ c9452ad.js:2
+n @ c9452ad.js:2
+Ur.c._wrapper @ c9452ad.js:2
+Show 11 more frames
+2d427b8.js:1 Uncaught (in promise) Error: AxiosError: Request failed with status code 504
+    at 2d427b8.js:1:13659
+(anonymous) @ 2d427b8.js:1
+Promise.then (async)
+(anonymous) @ 23ac99a.js:1
+v @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+r @ c9452ad.js:2
+l @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+(anonymous) @ 23ac99a.js:1
+(anonymous) @ 23ac99a.js:1
+v @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+r @ c9452ad.js:2
+l @ c9452ad.js:2
+Promise.then (async)
+r @ c9452ad.js:2
+l @ c9452ad.js:2
+Promise.then (async)
+r @ c9452ad.js:2
+l @ c9452ad.js:2
+Promise.then (async)
+r @ c9452ad.js:2
+l @ c9452ad.js:2
+Promise.then (async)
+r @ c9452ad.js:2
+l @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+T @ 23ac99a.js:1
+x @ c9452ad.js:2
+r @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+(anonymous) @ 23ac99a.js:1
+v @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+r @ c9452ad.js:2
+l @ c9452ad.js:2
+Promise.then (async)
+r @ c9452ad.js:2
+l @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+S @ 23ac99a.js:1
+x @ c9452ad.js:2
+r @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+(anonymous) @ c9452ad.js:2
+(anonymous) @ 23ac99a.js:1
+x @ c9452ad.js:2
+r @ c9452ad.js:2
+r @ c9452ad.js:2
+jt @ c9452ad.js:2
+Ht.confirmTransition @ c9452ad.js:2
+Ht.transitionTo @ c9452ad.js:2
+e.push @ c9452ad.js:2
+ee.push @ c9452ad.js:2
+H.n.push @ 23ac99a.js:1
+k @ c9452ad.js:2
+ee @ c9452ad.js:2
+n @ c9452ad.js:2
+Ur.c._wrapper @ c9452ad.js:2

@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="DropdownTestSuite" verbose="1">
+
+    <test name="DropdownOption2Test">
+        <parameter name="optionToSelect" value="Option 2"></parameter>
+        <classes>
+            <class name="com.herokuapp.theinternet.dropdowntests.DropdownTest" />
+        </classes>
+    </test>
+
+</suite>

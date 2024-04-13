@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="DragAndDropTestSuite" verbose="1">
+
+    <test name="DragAndDropTests">
+        <classes>
+            <class name="com.herokuapp.theinternet.draganddroptests.DragAndDropTests" />
+        </classes>
+    </test>
+
+</suite>
